@@ -1,3 +1,6 @@
+This project was awarded 1st place in the Natural Sciences track at Carolina Data Challenge 2024.
+
+
 ## Inspiration
 Airlines contribute around 2.5% of global carbon emissions. While this impact remains significant, many countries are taking notable steps to improve their airborne carbon footprint. 
 In 2021, the 300-or-so global airlines belonging to the International Air Transport Association resolved to reach net-zero emissions by 2050. I wanted to check up on how they’re doing.
